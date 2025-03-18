@@ -5,7 +5,7 @@ node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "35.200.202.118"
-UUID = "fb5508e2-72a5-4cda-bfb2-3ad1c3c33130"
+PROXYIP = "168.138.165.174"
+UUID = "1d873771-2bf8-4e01-88e8-ea24af9003f8"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
